@@ -1,5 +1,7 @@
 var sentence = "time for nap"
 
+//Funciones
+
 function makeMoreExciting(string) {
   return string + '!!!!'
 }
@@ -11,7 +13,11 @@ function gritalo(string) {
 
 console.log(gritalo(sentence))
 
+//Lista
+
 var listacompra = ["banana", "fresa", "granada"]
+
+//Objetos
 
 var path_meat = ["Pollo", "ternera", "hamburgesa"]
 var path_dairy = ["Yogurt", "Leche", "Queso"]
